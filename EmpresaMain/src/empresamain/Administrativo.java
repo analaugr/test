@@ -38,6 +38,7 @@ public class Administrativo extends Empleado {
         datos = super.toString()+"Administrativo{" + "departamento=" + departamento + ", telefono=" + telefono + '}';
         return datos;
     }
+    //ver los comentarios para ver si se guardan
     
     
     
